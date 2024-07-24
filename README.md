@@ -15,3 +15,5 @@
 ## Remote Utilities - remote access to computers
 
 ## UrBackup - UrBackup is an easy to setup Open Source client/server backup system
+
+## 7ZIP - is a free and open-source file archiver
