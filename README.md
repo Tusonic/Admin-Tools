@@ -31,3 +31,7 @@
 ## NextCloud - is a suite of client-server software for creating and using file hosting services
 
 ## WireGuard - VPN
+
+## Etcher - A cross-platform tool to flash OS images onto SD cards and USB drives safely and easily. Free and open source for makers around the world
+
+## Rufus - Rufus is a free and open-source portable application for Microsoft Windows that can be used to format and create bootable USB flash drives or Live USBs.
