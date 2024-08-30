@@ -1,41 +1,68 @@
-## Wazuh - XDR
+# Best Admin Tools for IT Professionals 
 
-## KeePass - password manager
+* ### KeePass 
+Password manager
 
-## Uptime Kuma - easy monitoring
+* ### 7ZIP 
+is a free and open-source file archiver
 
-## Bastillion - SSH access management
+* ### WinScp 
+is a free file manager for Windows supporting FTP, SFTP, S3 and WebDAV
 
-## TrueNAS - free NAS server
+* ### Uptime Kuma
+easy monitoring
 
-## PiHole - Linux application for blocking ads
+* ### Putty
+is an SSH and telnet client
 
-## Proxmox - virtualization platform
+# Company (Serwer)
 
-## Remote Utilities - remote access to computers
+* ### TrueNAS 
+free NAS server
 
-## UrBackup - UrBackup is an easy to setup Open Source client/server backup system
+* ### Proxmox
+virtualization platform
 
-## 7ZIP - is a free and open-source file archiver
+# VPN
 
-## WinSCP - is a free file manager for Windows supporting FTP, SFTP, S3 and WebDAV
+* ### WireGuard 
 
-## Putty - is an SSH and telnet client
+* ### OpenVPN 
 
-## Remote Utilities - remote work and telecommuting
+* ### SoftEther 
 
-## Mail Cown - muuuuuuuu
+# Serwer Mail
 
-## Snort - is an open-source, free and lightweight network intrusion detection system
+* ### Mail Cown 
+muuuuuuuu muuu muu
 
-## NextCloud - is a suite of client-server software for creating and using file hosting services
+# TOOLS for USB Bootable
 
-## WireGuard - VPN
+* ### Etcher
+A cross-platform tool to flash OS images onto SD cards and USB drives safely and easily. Free and open source for makers around the world
 
-## OpenVPN - VPN
+* ### Rufus
+Rufus is a free and open-source portable application for Microsoft Windows that can be used to format and create bootable USB flash drives or Live USBs.
 
-## SoftEther - VPN
+---
+---
+### Wazuh - XDR
 
-## Etcher - A cross-platform tool to flash OS images onto SD cards and USB drives safely and easily. Free and open source for makers around the world
+### Snort - is an open-source, free and lightweight network intrusion detection system
 
-## Rufus - Rufus is a free and open-source portable application for Microsoft Windows that can be used to format and create bootable USB flash drives or Live USBs.
+### Bastillion - SSH access management
+
+### PiHole - Linux application for blocking ads
+
+### Remote Utilities - remote access to computers
+
+### UrBackup - UrBackup is an easy to setup Open Source client/server backup system
+
+### NextCloud - is a suite of client-server software for creating and using file hosting services
+
+### virustotal.com - virus scanner
+### ESET online scanner - eset antyvirus
+### N8N.IO - Free and source-available fair-code licensed workflow automation tool
+### MAKE.COM - is a no-code integration platform that allows you to connect multiple apps and transfer data between them.
+
+---
