@@ -44,6 +44,19 @@ A cross-platform tool to flash OS images onto SD cards and USB drives safely and
 * ### Rufus
 Rufus is a free and open-source portable application for Microsoft Windows that can be used to format and create bootable USB flash drives or Live USBs.
 
+# Workflow Automation
+
+* ## N8N.IO
+Free and source-available fair-code licensed workflow automation tool
+
+* ## MAKE.COM
+ is a no-code integration platform that allows you to connect multiple apps and transfer data between them.
+
+#  AntiVirus
+
+* ### virustotal.com - virus scanner
+
+* ### ESET online scanner - eset antyvirus
 ---
 ---
 ### Wazuh - XDR
