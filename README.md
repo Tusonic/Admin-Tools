@@ -57,11 +57,17 @@ Free and source-available fair-code licensed workflow automation tool
 * ### virustotal.com - virus scanner
 
 * ### ESET online scanner - eset antyvirus
----
----
-### Wazuh - XDR
 
-### Snort - is an open-source, free and lightweight network intrusion detection system
+# Security
+
+* ### Wazuh 
+is a free and open source security platform that unifies XDR and SIEM capabilities
+
+* ### Snort 
+is an open-source, free and lightweight network intrusion detection system
+
+---
+---
 
 ### Bastillion - SSH access management
 
