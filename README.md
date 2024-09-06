@@ -15,6 +15,16 @@ easy monitoring
 * ### Putty
 is an SSH and telnet client
 
+# You need to know
+
+* ### PiHole - Linux application for blocking ads
+
+* ### Remote Utilities - remote access to computers
+
+* ### UrBackup - UrBackup is an easy to setup Open Source client/server backup system
+
+* ### NextCloud - is a suite of client-server software for creating and using file hosting services
+
 # Company (Serwer)
 
 * ### TrueNAS 
@@ -65,19 +75,3 @@ is a free and open source security platform that unifies XDR and SIEM capabiliti
 
 * ### Snort 
 is an open-source, free and lightweight network intrusion detection system
-
----
----
-
-### Bastillion - SSH access management
-
-### PiHole - Linux application for blocking ads
-
-### Remote Utilities - remote access to computers
-
-### UrBackup - UrBackup is an easy to setup Open Source client/server backup system
-
-### NextCloud - is a suite of client-server software for creating and using file hosting services
-
-
----
