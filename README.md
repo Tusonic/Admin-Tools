@@ -17,13 +17,17 @@ is an SSH and telnet client
 
 # You need to know
 
-* ### PiHole - Linux application for blocking ads
+* ### PiHole
+Linux application for blocking ads
 
-* ### Remote Utilities - remote access to computers
+* ### Remote Utilities 
+remote access to computers
 
-* ### UrBackup - UrBackup is an easy to setup Open Source client/server backup system
+* ### UrBackup
+UrBackup is an easy to setup Open Source client/server backup system
 
-* ### NextCloud - is a suite of client-server software for creating and using file hosting services
+* ### NextCloud 
+is a suite of client-server software for creating and using file hosting services
 
 # Company (Serwer)
 
@@ -64,9 +68,11 @@ Free and source-available fair-code licensed workflow automation tool
 
 #  AntiVirus
 
-* ### virustotal.com - virus scanner
+* ### virustotal.com 
+virus scanner
 
-* ### ESET online scanner - eset antyvirus
+* ### ESET online scanner
+eset antyvirus
 
 # Security
 
