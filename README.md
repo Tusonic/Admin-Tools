@@ -81,3 +81,6 @@ is a free and open source security platform that unifies XDR and SIEM capabiliti
 
 * ### Snort 
 is an open-source, free and lightweight network intrusion detection system
+
+* ### Suricata
+is a high performance, open source network analysis and threat detection software used by most private and public organizations
