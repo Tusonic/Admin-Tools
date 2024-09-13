@@ -20,6 +20,9 @@ is an SSH and telnet client
 * ### PiHole
 Linux application for blocking ads
 
+* ### AdGuard 
+is a good ad blocker with plenty of features like phishing, tracking, and browser protection
+
 * ### Remote Utilities 
 remote access to computers
 
