@@ -67,7 +67,10 @@ Rufus is a free and open-source portable application for Microsoft Windows that 
 Free and source-available fair-code licensed workflow automation tool
 
 * ## MAKE.COM
- is a no-code integration platform that allows you to connect multiple apps and transfer data between them.
+is a no-code integration platform that allows you to connect multiple apps and transfer data between them.
+
+* ## GRAFANA 
+is the open source analytics & monitoring solution for every database.
 
 #  AntiVirus
 
