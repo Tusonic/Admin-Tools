@@ -15,6 +15,9 @@ easy monitoring
 * ### Putty
 is an SSH and telnet client
 
+* ### Notion
+is a single space where you can think, write, and plan. 
+
 # You need to know
 
 * ### PiHole
