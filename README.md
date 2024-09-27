@@ -16,7 +16,10 @@ easy monitoring
 is an SSH and telnet client
 
 * ### Notion
-is a single space where you can think, write, and plan. 
+is a single space where you can think, write, and plan
+
+* ### Obsidian 
+is the private and flexible note‑taking app that adapts to the way you think
 
 # You need to know
 
