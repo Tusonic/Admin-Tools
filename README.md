@@ -103,3 +103,6 @@ is a high performance, open source network analysis and threat detection softwar
 # Hardware
 * ### MikroTik
 MikroTik is a company located in the city of Riga, the capital of Latvia, dedicated to developing routers and ISP (Internet Service Provider) systems.
+
+# AI 
+https://www.perplexity.ai/
