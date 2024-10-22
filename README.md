@@ -29,6 +29,9 @@ Linux application for blocking ads
 * ### AdGuard 
 is a good ad blocker with plenty of features like phishing, tracking, and browser protection
 
+* ### Technitium
+free DNS server
+
 * ### Remote Utilities 
 remote access to computers
 
