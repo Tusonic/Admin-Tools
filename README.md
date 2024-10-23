@@ -109,3 +109,6 @@ MikroTik is a company located in the city of Riga, the capital of Latvia, dedica
 
 # AI 
 https://www.perplexity.ai/
+
+# Camera
+* ### Motion
