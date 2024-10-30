@@ -112,5 +112,5 @@ MikroTik is a company located in the city of Riga, the capital of Latvia, dedica
 * ### midjourneyfree.ai 
 
 # Camera
-* ### Motion
-* ### Kerberos.io
+* ### ZoneMinder
+* ### Frigate
