@@ -110,6 +110,7 @@ MikroTik is a company located in the city of Riga, the capital of Latvia, dedica
 # AI 
 * ### perplexity.ai
 * ### midjourneyfree.ai 
+* ### Eleven labs
 
 # Camera
 * ### ZoneMinder
@@ -119,7 +120,7 @@ MikroTik is a company located in the city of Riga, the capital of Latvia, dedica
 * ### GNS3
 
 # Remote Desktop
-* Remote Utilities 
+* ### Remote Utilities 
 https://www.remoteutilities.com/
 
 * ### RustDesk
