@@ -21,7 +21,7 @@ is a single space where you can think, write, and plan
 * ### Obsidian 
 is the private and flexible note‑taking app that adapts to the way you think
 
-# You need to know
+# AD Blocker DNS
 
 * ### PiHole
 Linux application for blocking ads
@@ -31,6 +31,8 @@ is a good ad blocker with plenty of features like phishing, tracking, and browse
 
 * ### Technitium
 free DNS server
+
+# You need to know
 
 * ### Remote Utilities 
 remote access to computers
