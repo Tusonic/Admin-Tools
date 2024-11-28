@@ -120,6 +120,8 @@ MikroTik is a company located in the city of Riga, the capital of Latvia, dedica
 
 # Network Learning
 * ### GNS3
+* ### EVE-NG
+* ### Cisco Packet Tracer
 
 # Remote Desktop
 * ### Remote Utilities 
