@@ -67,6 +67,12 @@ backup!
 * ### Mail Cown 
 muuuuuuuu muuu muu
 
+# Video Conference
+
+* ### Jitsi
+
+* ### Bigbluebutton.org
+
 # TOOLS for USB Bootable
 
 * ### Etcher
