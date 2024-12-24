@@ -118,7 +118,9 @@ MikroTik is a company located in the city of Riga, the capital of Latvia, dedica
 # AI 
 * ### perplexity.ai
 * ### midjourneyfree.ai 
-* ### Eleven labs
+* ### Eleven labs (elevenlabs.io)
+* ### Suno.com (music)
+* ### Udio.com (music)
 
 # Camera
 * ### ZoneMinder
