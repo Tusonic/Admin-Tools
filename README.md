@@ -143,3 +143,6 @@ Open-Source Remote Desktop with Self-Hosted Server
 
 # PDF 
 Stirling-Tool - PDF 
+
+# Proxmox Helper Scripts
+https://community-scripts.github.io/ProxmoxVE/scripts
