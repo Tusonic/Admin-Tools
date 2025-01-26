@@ -147,3 +147,7 @@ Stirling-Tool - PDF
 # Proxmox Helper Scripts
 https://community-scripts.github.io/ProxmoxVE/scripts
 * #### MotionEye NVR
+
+# TOOLS
+* ### OpenSpeedTest
+https://github.com/openspeedtest/Speed-Test
