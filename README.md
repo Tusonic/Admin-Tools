@@ -152,3 +152,5 @@ https://community-scripts.github.io/ProxmoxVE/scripts
 # TOOLS
 * ### OpenSpeedTest
 https://github.com/openspeedtest/Speed-Test
+* ### Shodan
+https://www.shodan.io/
