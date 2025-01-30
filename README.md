@@ -155,3 +155,5 @@ https://github.com/openspeedtest/Speed-Test
 
 * ### Shodan
 https://www.shodan.io/
+
+* ### Technitium DNS
