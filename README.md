@@ -1,159 +1,191 @@
-# Best Admin Tools for IT Professionals 
+# Best Admin Tools for IT Professionals
 
-* ### KeePass 
-Password manager
+## Password Management
+- **KeePass**  
+  _Password manager_
 
-* ### 7ZIP 
-is a free and open-source file archiver
+## File Archiving & Transfer
+- **7ZIP**  
+  _Free and open-source file archiver_
+- **WinSCP**  
+  _Free file manager for Windows supporting FTP, SFTP, S3, and WebDAV_
 
-* ### WinScp 
-is a free file manager for Windows supporting FTP, SFTP, S3 and WebDAV
+## Monitoring & Remote Access
+- **Uptime Kuma**  
+  _Easy monitoring tool_
+- **Putty**  
+  _SSH and Telnet client_
 
-* ### Uptime Kuma
-easy monitoring
+## Note-Taking & Planning
+- **Notion**  
+  _A single space to think, write, and plan_
+- **Obsidian**  
+  _Private and flexible note‑taking app that adapts to the way you think_
 
-* ### Putty
-is an SSH and telnet client
-
-* ### Notion
-is a single space where you can think, write, and plan
-
-* ### Obsidian 
-is the private and flexible note‑taking app that adapts to the way you think
+---
 
 # AD Blocker DNS
 
-* ### PiHole
-Linux application for blocking ads
+- **PiHole**  
+  _Linux application for blocking ads_
+- **AdGuard**  
+  _Ad blocker with features like phishing, tracking, and browser protection_
+- **Technitium**  
+  _Free DNS server_
 
-* ### AdGuard 
-is a good ad blocker with plenty of features like phishing, tracking, and browser protection
+---
 
-* ### Technitium
-free DNS server
+# You Need to Know
 
-# You need to know
+## Remote Access & Backup
+- **Remote Utilities**  
+  _Remote access to computers_
+- **UrBackup**  
+  _Easy-to-setup Open Source client/server backup system_
+- **NextCloud**  
+  _Suite for creating and using file hosting services_
 
-* ### Remote Utilities 
-remote access to computers
-
-* ### UrBackup
-UrBackup is an easy to setup Open Source client/server backup system
-
-* ### NextCloud 
-is a suite of client-server software for creating and using file hosting services
+---
 
 # Company (Serwer)
 
-* ### TrueNAS 
-free NAS server
+- **TrueNAS**  
+  _Free NAS server_
+- **Proxmox**  
+  _Virtualization platform_
+- **Proxmox Backup**  
+  _Backup solution_
 
-* ### Proxmox
-virtualization platform
-
-* ### Proxmox Backup
-backup!
+---
 
 # VPN
 
-* ### WireGuard 
+- **WireGuard**
+- **OpenVPN**
+- **SoftEther**
 
-* ### OpenVPN 
+---
 
-* ### SoftEther 
+# Server Mail
 
-# Serwer Mail
+- **Mail Cown**  
+  _muuuuuuuu muuu muu_
 
-* ### Mail Cown 
-muuuuuuuu muuu muu
+---
 
 # Video Conference
 
-* ### Jitsi
+- **Jitsi**
+- **BigBlueButton**  
+  _(bigbluebutton.org)_
 
-* ### Bigbluebutton.org
+---
 
-# TOOLS for USB Bootable
+# Tools for USB Bootable
 
-* ### Etcher
-A cross-platform tool to flash OS images onto SD cards and USB drives safely and easily. Free and open source for makers around the world
+- **Etcher**  
+  _A cross-platform tool to flash OS images onto SD cards and USB drives safely and easily. Free and open source for makers._
+- **Rufus**  
+  _Free and open-source application for Windows to format and create bootable USB flash drives or Live USBs._
 
-* ### Rufus
-Rufus is a free and open-source portable application for Microsoft Windows that can be used to format and create bootable USB flash drives or Live USBs.
+---
 
 # Workflow Automation
 
-* ## N8N.IO
-Free and source-available fair-code licensed workflow automation tool
+- **n8n.io**  
+  _Free and open-source fair-code licensed workflow automation tool_
+- **Make.com**  
+  _No-code integration platform that connects multiple apps and transfers data between them_
+- **Grafana**  
+  _Open source analytics & monitoring solution for every database_
 
-* ## MAKE.COM
-is a no-code integration platform that allows you to connect multiple apps and transfer data between them.
+---
 
-* ## GRAFANA 
-is the open source analytics & monitoring solution for every database.
+# Antivirus
 
-#  AntiVirus
+- **VirusTotal.com**  
+  _Virus scanner_
+- **ESET Online Scanner**  
+  _ESET antivirus_
 
-* ### virustotal.com 
-virus scanner
-
-* ### ESET online scanner
-eset antyvirus
+---
 
 # Security
 
-* ### Wazuh 
-is a free and open source security platform that unifies XDR and SIEM capabilities
+- **Wazuh**  
+  _Free and open source security platform unifying XDR and SIEM capabilities_
+- **Snort**  
+  _Open-source, lightweight network intrusion detection system_
+- **Suricata**  
+  _High-performance, open source network analysis and threat detection software_
 
-* ### Snort 
-is an open-source, free and lightweight network intrusion detection system
-
-* ### Suricata
-is a high performance, open source network analysis and threat detection software used by most private and public organizations
+---
 
 # Hardware
-* ### MikroTik
-MikroTik is a company located in the city of Riga, the capital of Latvia, dedicated to developing routers and ISP (Internet Service Provider) systems.
 
-# AI 
-* ### perplexity.ai
-* ### midjourneyfree.ai 
-* ### Eleven labs (elevenlabs.io)
-* ### Suno.com (music)
-* ### Udio.com (music)
+- **MikroTik**  
+  _Company specializing in routers and ISP systems based in Riga, Latvia_
+
+---
+
+# AI
+
+- **Perplexity.ai**
+- **Midjourneyfree.ai**
+- **Eleven Labs** ([elevenlabs.io](https://elevenlabs.io))
+- **Suno.com** _(music)_
+- **Udio.com** _(music)_
+
+---
 
 # Camera
-* ### ZoneMinder
-* ### Frigate
-* ### MotionEye NVR
+
+- **ZoneMinder**
+- **Frigate**
+- **MotionEye NVR**
+
+---
 
 # Network Learning
-* ### GNS3
-* ### EVE-NG
-* ### Cisco Packet Tracer
+
+- **GNS3**
+- **EVE-NG**
+- **Cisco Packet Tracer**
+
+---
 
 # Remote Desktop
-* ### Remote Utilities 
-https://www.remoteutilities.com/
 
-* ### RustDesk
-Open-Source Remote Desktop with Self-Hosted Server 
+- **Remote Utilities**  
+  [Remote Utilities Website](https://www.remoteutilities.com/)
+- **RustDesk**  
+  _Open-source remote desktop with self-hosted server_
+
+---
 
 # S3
-* ### wigle.net
 
-# PDF 
-Stirling-Tool - PDF 
+- **Wigle.net**
+
+---
+
+# PDF Tools
+
+- **Stirling-Tool - PDF**
+
+---
 
 # Proxmox Helper Scripts
-https://community-scripts.github.io/ProxmoxVE/scripts
-* #### MotionEye NVR
 
-# TOOLS
-* ### OpenSpeedTest
-https://github.com/openspeedtest/Speed-Test
+- [Proxmox Helper Scripts](https://community-scripts.github.io/ProxmoxVE/scripts)  
+  _Includes scripts like MotionEye NVR_
 
-* ### Shodan
-https://www.shodan.io/
+---
 
-* ### Technitium DNS
+# Additional Tools
+
+- **OpenSpeedTest**  
+  [GitHub - OpenSpeedTest/Speed-Test](https://github.com/openspeedtest/Speed-Test)
+- **Shodan**  
+  [Shodan Website](https://www.shodan.io/)
+- **Technitium DNS**
