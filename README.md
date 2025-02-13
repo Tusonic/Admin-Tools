@@ -193,4 +193,5 @@
 - **PiHole**
 
 # Analytics
-- **Umami**[Umami Website](https://github.com/umami-software/umami)
+- **Umami**
+**[Umami Website](https://github.com/umami-software/umami)**
