@@ -191,6 +191,7 @@
   [Shodan Website](https://www.shodan.io/)
 - **Technitium DNS**
 - **PiHole**
+- **AdGuard**
 
 # Analytics
 - **[Umami](https://github.com/umami-software/umami)**
