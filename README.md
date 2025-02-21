@@ -37,9 +37,7 @@
 
 # You Need to Know
 
-## Remote Access & Backup
-- **Remote Utilities**  
-  _Remote access to computers_
+## Backup
 - **UrBackup**  
   _Easy-to-setup Open Source client/server backup system_
 - **NextCloud**  
@@ -161,6 +159,7 @@
 - **RustDesk**  
   _Open-source remote desktop with self-hosted server_
 
+
 ---
 
 # S3
@@ -193,8 +192,13 @@
 - **PiHole**
 - **AdGuard**
 
+---
+
 # Analytics
 - **[Umami](https://github.com/umami-software/umami)**
 
+---
+
 # Business
 - **Zammad**
+
