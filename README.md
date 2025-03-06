@@ -40,6 +40,8 @@
 ## Backup
 - **UrBackup**  
   _Easy-to-setup Open Source client/server backup system_
+
+## Cloud
 - **NextCloud**  
   _Suite for creating and using file hosting services_
 
