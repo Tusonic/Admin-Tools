@@ -80,6 +80,9 @@
   _(bigbluebutton.org)_
 - **Jami**
   _(jami.net)_
+- **MiroTalk**
+_(https://meet.no42.org/)_
+
 
 ---
 
