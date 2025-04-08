@@ -78,6 +78,8 @@
 - **Jitsi**
 - **BigBlueButton**  
   _(bigbluebutton.org)_
+- **Jami**
+  _(jami.net)_
 
 ---
 
