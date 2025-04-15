@@ -193,11 +193,19 @@ _(https://meet.no42.org/)_
 
 - **OpenSpeedTest**  
   [GitHub - OpenSpeedTest/Speed-Test](https://github.com/openspeedtest/Speed-Test)
-- **Shodan**  
-  [Shodan Website](https://www.shodan.io/)
 - **Technitium DNS**
 - **PiHole**
 - **AdGuard**
+
+---
+
+# Scaner 
+
+- **Shodan**  
+  [Shodan Website](https://www.shodan.io/)
+
+- **Censys**  
+  [censys](https://search.censys.io/)
 
 ---
 
