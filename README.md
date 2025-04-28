@@ -211,8 +211,8 @@ _(https://meet.no42.org/)_
 
 # Analytics
 
-- **Umami**
-[Umami](https://github.com/umami-software/umami)**
+- **[Umami](https://github.com/umami-software/umami)**
+
 
 ---
 
